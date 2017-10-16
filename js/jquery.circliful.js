@@ -22,7 +22,7 @@
             iconColor: '#ccc',
             iconPosition: 'top',
             iconDecoration: true,
-            target: 0,
+            targetPercent: 0,
             start: 0,
             showPercent: 1,
             percentageTextSize: 22,
